@@ -5,7 +5,7 @@ This bot retrieves the user's email with the user's access token after the user 
 
 ## Setup Instructions
 
-We assume you have already published your nodejs bot on a web service. 
+We assume you have already published your Node.js bot on a web service. 
 
 ### 1. Create AADv2 app (if you don't have one)
 

@@ -3,12 +3,17 @@
   "version": "0.1.0",
   "description": "BotAuth example for Azure AD v2",
   "main": "app.js",
+  "engines": {
+    "node": "6.10.2",
+    "npm": "3.10.10"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app"
   },
   "keywords": [
     "oauth",
     "botframework",
+    "botbuilder",
     "aad"
   ],
   "author": "",
